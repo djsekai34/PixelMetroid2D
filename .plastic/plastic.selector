@@ -1,0 +1,4 @@
+repository "2_PixelMetroid2D/2_PixelMetroid2D@20067526410599@cloud"
+  path "/"
+    br "/main"
+    co "/main"
